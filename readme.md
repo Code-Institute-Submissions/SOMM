@@ -78,8 +78,12 @@ The booking page will be a simple page with a nice image, a form for booking a t
 
 The menu will be layed out over images to section each element of the menu. The content will fill out a desktop screen but will be displayed in list type format on a tablet or mobile the device for easy reading and scrolling through the content
 
-## Wireframing
+## **Wireframing**
 
-After answering the user stories and getting a idea of the features needed on the site and the information structure of the site I started the wireframing process with balsamiq this helped to solidify my ideas about how the site would look and also help me make the site more attractive by laying out the imagery in the correct pattern and choosing the colors of the font and backgrounds. 
+After answering the user stories and getting a idea of the features needed on the site and the information structure of the site I started the wireframing process with balsamiq this helped to solidify my ideas about how the site would look and also help me make the site more attractive by laying out the imagery in the correct pattern and choosing the colors of the font and backgrounds
 
+**View wireframes here:**
 
+- [Home page](https://github.com/noelmurphy33/SOMM/blob/41105cbf5d1e2999ab019d2754392354f00d8903/wireframes/home-wireframe.png)
+- [Booking page](https://github.com/noelmurphy33/SOMM/blob/41105cbf5d1e2999ab019d2754392354f00d8903/wireframes/bookings-wireframe.png)
+- [Menu page](https://github.com/noelmurphy33/SOMM/blob/41105cbf5d1e2999ab019d2754392354f00d8903/wireframes/menu-wireframe.png)
