@@ -1,16 +1,15 @@
-# SOMM WINE BAR Website
+# **SOMM WINE BAR Website**
 
 A responsive modern website for a recently open wine bar in ennis, this website was created as my first milestone project in the code institute full stack software development course.
 
-## Project goals
+## **Project goals**
 While consulting with the owners of the wine bar the following main goals where established: 
 - Create an online presence for the business to complement their social media presence
 - Increase awareness about what the business is about and has to offer
 - Increase potential customers for the business
 - Allow new and current customers to book online
 
-
-## UXD
+## **UXD**
 
 Primary target audience: aged 21 years old upward people who are into the wine drinking experience or people who like wine but have not been to a wine bar before and what to learn more about what this experience has to offer 
  
@@ -29,9 +28,9 @@ The **strategy** is to create a website where the customer can book a table by f
 
 The **strategy** is to make this a modern website which stands out from the other restaurant and bar websites by being both visually appealing and simple to navigate espically in the menus where people need to be able read the menu properly on any device without having to pinch and zoom 
 
-## User stories
+## **User stories**
 After interviewing the owner and potiental customers of the site and after doing some research the following users stories where created
-### Customer user stories
+### **Customer user stories**
 
 - As a new user while on the website I am expecting the company title or logo or a photo, so I know where I am in the right place
 - As new user I want to know more about the restaurant or bar 
@@ -44,7 +43,7 @@ After interviewing the owner and potiental customers of the site and after doing
 - As a returning user I want to be able to book a table quickly 
 - As a returning user id like to find out about events and offers from the bar or restaurant
  
-### WEBSITE OWNER USER STORIES
+### **WEBSITE OWNER USER STORIES**
 
 - As a website owner I want the site to be visually attractive
 - As a website owner I want customers to see what the bar looks like
@@ -56,28 +55,30 @@ After interviewing the owner and potiental customers of the site and after doing
 - As a website owner I want our customers to easily book a table through the website
 
 
-## Design decisions and structure
+## **Design decisions and structure**
 Following the user stories I decided that to minimize the content and maximise the usability the website would consist of three pages home page , bookings page and menu page. Each page would have the same header and footer content to keep the website consistent and each page would consist of lots of imagery to make the webpage attractive and to show off the bar to give the user a bigger picture as to want the bar is all about the follow are my initial ideas on the project:
 
-Header 
+**Header** 
 
 The header will consist of the logo of the company as well as the nav links to the other sections of the site these will be displayed inline on larger devices and as a hamburger menu on smaller devices this will make the site easy to navigate for any user
 
-Footer.
+**Footer**
 
 The footer will consist of a contact info, address, a mini embedded map,social media links this will increase usability by giving this info on every page the site
 
-Home page.
+**Home page**
 
 The home page will have a nice image of the bar , it will have a call to action to book a table and a slogan. further down the page will be the about section with a sign up button for the newletter as a modal and social media links. The next section will be some nice imagery which be about the menu and will link to the menu page.
 
-Booking page
+**Booking page**
 
 The booking page will be a simple page with a nice image, a form for booking a table at the bar and some text at top to inform customers again about the contact info. This will make it easy to book a table and not distract form that process with other content this is why I decided to give it its own page
 
-Menu page 
+**Menu page** 
 
 The menu will be layed out over images to section each element of the menu. The content will fill out a desktop screen but will be displayed in list type format on a tablet or mobile the device for easy reading and scrolling through the content
+
+## Wireframing
 
 After answering the user stories and getting a idea of the features needed on the site and the information structure of the site I started the wireframing process with balsamiq this helped to solidify my ideas about how the site would look and also help me make the site more attractive by laying out the imagery in the correct pattern and choosing the colors of the font and backgrounds. 
 
