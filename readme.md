@@ -87,3 +87,13 @@ After answering the user stories and getting a idea of the features needed on th
 - [Home page](https://github.com/noelmurphy33/SOMM/blob/41105cbf5d1e2999ab019d2754392354f00d8903/wireframes/home-wireframe.png)
 - [Booking page](https://github.com/noelmurphy33/SOMM/blob/41105cbf5d1e2999ab019d2754392354f00d8903/wireframes/bookings-wireframe.png)
 - [Menu page](https://github.com/noelmurphy33/SOMM/blob/41105cbf5d1e2999ab019d2754392354f00d8903/wireframes/menu-wireframe.png)
+
+## Changes to initial design
+
+After a review of the design and wireframes by my mentor the following changes where decided.
+1. The booking page will be changed to a contact page which will remove the contact info from the footer and place it on the page along with a contact form
+
+2. The booking nav link and call to action will now be a modal form.
+
+3. The sign up to newletter call to action will be removed from the about section and will now be in the foooter as a small form 
+
