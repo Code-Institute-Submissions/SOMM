@@ -57,13 +57,27 @@ padding: 0px;
 
   #bookingbtn{
       width: 30%;
+      margin-left: 35%;
       font-family: 'Balsamiq Sans', cursive;
       text-transform: uppercase;
       text-align: center;
-      font-size: 1.5em;
+      font-size: 1.5rem;
       position: absolute;
       bottom: 40px;
       font-weight: bold;
       background-color: rgba(255, 255, 255, 0.61);
       
   }
+  .modalfade{
+      padding: 0px;
+    }
+  .modal-content{
+      background-color: rgba(255, 255, 255, 0.767);
+      font-family: 'Balsamiq Sans';
+      font-size: 20px;
+      color: rgba(29, 29, 29,);
+}
+.form-control{
+    padding: 3px 12px;
+    font-size: 20px;
+}
