@@ -60,7 +60,7 @@
         <!-- BOOKING modal BUTTON------------- -->
         <button type="button" class="btn btn-light btn-lg" id="bookingbtn" data-toggle="modal" data-target="#myModal"
             data-whatever="@mdo">Book NOW</button>
-    <!-- BOOKING modal ------------- -->
+        <!-- BOOKING modal ------------- -->
         <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
             aria-hidden="true">
             <div class="modal-dialog modal-dialog-centered" role="document">
@@ -72,28 +72,34 @@
                         </button>
                     </div>
                     <div class="modal-body">
-                        <form>
-                            <div class="form-group">
+                        <form method="post" action="https://formdump.codeinstitute.net/">
+                            <div>
                                 <label for="fname" class="col-form-label">Name:</label>
-                                <input type="text" class="form-control" id="fname">
+                                <input type="text" class="form-control" id="fname" required>
+                                <label for="tnumber" class="col-form-label">NUMBER:</label>
+                                <input type="tel" class="form-control" id="tnumber" required>
+                                <label for="emaila" class="col-form-label">EMAIL:</label>
+                                <input type="email" class="form-control" id="emaila" required>
+                                <label for="nguest" class="col-form-label">NO OF GUESTS:</label>
+                                <input type="number" class="form-control" id="nguest" required>
+                                <label for="date" class="col-form-label">DATE:</label>
+                                <input type="datetime-local" class="form-control" id="date" required>
                             </div>
-                            <div class="form-group">
-                                <label for="message-text" class="col-form-label">Message:</label>
-                                <textarea class="form-control" id="message-text"></textarea>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                <button type="submit" class="btn btn-primary">BOOK</button>
                             </div>
                         </form>
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                        <button type="button" class="btn btn-primary">Send message</button>
+
+
+
                     </div>
                 </div>
             </div>
+
         </div>
 
     </div>
-
-
 
 
 
