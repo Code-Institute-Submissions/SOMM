@@ -33,3 +33,12 @@ padding: 0px;
   #hamburger:hover{
       color: rgba(181, 7, 23, 1);
   }
+
+  .landing{
+      background-image: url(/assets/images/patrick-tomasso-GXXYkSwndP4-unsplash.jpg) ;
+      background-position: center; 
+      background-size: cover;
+      background-repeat: no-repeat;
+        height: 90vh;
+      width: 100%;
+  }
