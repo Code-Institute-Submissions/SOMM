@@ -35,20 +35,35 @@ padding: 0px;
   #hamburger:hover{
       color: rgba(181, 7, 23, 1);
   }
-
+/*------------------------landing image and text STYLING------------------*/
   .landing{
       background: url(/assets/images/patrick-tomasso-GXXYkSwndP4-unsplash.jpg) no-repeat center center;
       background-size: cover;
       height: 90vh;
       position: relative;
+     
   }
   .welcome-text{
       top: 70px;
       position: absolute;
       color: rgba(191, 191, 191, 1);
-      font-family: 'roboto', sans-serif;
+      font-family: 'Balsamiq Sans', cursive;
       font-style: italic;   
       margin-left: 30px;
       margin-right: 30px;
       background-color: rgba(0, 0, 0, 0.39);
+  }
+  /*------------------------Booking modal and button STYLING------------------*/
+
+  #bookingbtn{
+      width: 30%;
+      font-family: 'Balsamiq Sans', cursive;
+      text-transform: uppercase;
+      text-align: center;
+      font-size: 1.5em;
+      position: absolute;
+      bottom: 40px;
+      font-weight: bold;
+      background-color: rgba(255, 255, 255, 0.61);
+      
   }
