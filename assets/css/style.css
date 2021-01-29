@@ -66,8 +66,12 @@ padding: 0px;
       bottom: 40px;
       font-weight: bold;
       background-color: rgba(255, 255, 255, 0.61);
-      
-  }
+      }
+
+    #bookingbtn:hover{
+        background-color: rgba(181, 7, 23, 1);
+        color: rgba(255, 255, 255, 0.767);
+    }  
   .modalfade{
       padding: 0px;
     }
