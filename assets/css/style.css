@@ -77,7 +77,7 @@ padding: 0px;
     }
   .modal-content{
       background-color: rgba(255, 255, 255, 0.767);
-      font-family: 'Balsamiq Sans';
+      font-family: 'Balsamiq Sans', cursive;
       font-size: 20px;
       color: rgba(29, 29, 29,);
 }
@@ -85,3 +85,11 @@ padding: 0px;
     padding: 3px 12px;
     font-size: 20px;
 }
+/*------------------------SOMM STORY STYLING------------------*/
+
+  .storysomm{
+      background: url("/assets/images/jonathan-nguyen-XwO0raJ2dQM-unsplash.jpg") no-repeat center center;
+      background-size: cover;
+      height: 100vh;
+
+  }
