@@ -1,0 +1,16 @@
+.navbar {
+background-color: #1d1d1d;
+
+}
+.navbar-brand {
+    color: rgba(181, 7, 23, 1);
+    font-size: 3em;
+    font-family: 'Balsamiq Sans', cursive;
+    }
+
+    .nav-item .nav-link {
+        color: rgba(191, 191, 191, 1);
+        font-family: 'Balsamiq Sans', cursive;
+        margin-right: 16px;
+    }
+  
