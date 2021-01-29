@@ -74,16 +74,16 @@
                     <div class="modal-body">
                         <form method="post" action="https://formdump.codeinstitute.net/">
                             <div>
-                                <label for="fname" class="col-form-label">Name:</label>
-                                <input type="text" class="form-control" id="fname" required>
-                                <label for="tnumber" class="col-form-label">NUMBER:</label>
-                                <input type="tel" class="form-control" id="tnumber" required>
+                                <label for="fname" class="col-form-label">NAME:</label>
+                                <input type="text" class="form-control" name="Name" placeholder="Name" id="fname" required>
+                                <label for="tnumber" class="col-form-label">TELEPHONE NUMBER:</label>
+                                <input type="tel" class="form-control" name="tel number" placeholder="+353" id="tnumber" required>
                                 <label for="emaila" class="col-form-label">EMAIL:</label>
-                                <input type="email" class="form-control" id="emaila" required>
+                                <input type="email" class="form-control" name="email address" placeholder="example@gmail.com" id="emaila" required>
                                 <label for="nguest" class="col-form-label">NO OF GUESTS:</label>
-                                <input type="number" class="form-control" id="nguest" required>
-                                <label for="date" class="col-form-label">DATE:</label>
-                                <input type="datetime-local" class="form-control" id="date" required>
+                                <input type="number" class="form-control" name="number of guests" placeholder="1-20" id="nguest" required>
+                                <label for="date" class="col-form-label">DATE AND TIME:</label>
+                                <input type="datetime-local" class="form-control" name="time and date" id="date" required>
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
