@@ -88,8 +88,24 @@ padding: 0px;
 /*------------------------SOMM STORY STYLING------------------*/
 
   .storysomm{
-      background: url("/assets/images/jonathan-nguyen-XwO0raJ2dQM-unsplash.jpg") no-repeat center center;
+      background: url("/assets/images/jonathan-nguyen-XwO0raJ2dQM-unsplash.jpg") no-repeat center center fixed;
       background-size: cover;
-      height: 100vh;
-
+      height: 100vh; 
+    font-family: 'Balsamiq Sans', cursive;
+      
   }
+  .storysomm h2{
+      color: rgba(181, 7, 23, 1);
+    }
+  .storysomm p{
+      color: rgba(191, 191, 191, 1);
+      font-size: 3vw;
+        background-color: rgba(0, 0, 0, 0.39);
+    }
+    @media screen and (max-width: 600px) {
+    .storysomm p {font-size: 6vw}
+    }
+
+   @media screen and (min-width: 600px) {
+    .storysomm h2{font-size: 6vw}
+    }
