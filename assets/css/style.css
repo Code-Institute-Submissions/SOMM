@@ -132,12 +132,12 @@ padding: 0px;
 }
 
 #menunavbtn{
-    width: 25vw;
+    width: 40vw;
     height: 400px;
     border-radius: 50%;
     background-color: rgba(233, 224, 224, 0.445);
     position: absolute;
-    left: 37.5vw;
+    left: 30vw;
     top: 0;
     justify-content: center;
     align-items: center;
@@ -147,7 +147,8 @@ padding: 0px;
 #menunavbtn a{
     color: rgba(181, 7, 23, 1);
     font-family: 'Balsamiq Sans', cursive;
-    font-size: 2.5em;
+    font-size: 10vw;
+    width: 40vw;
     
     
 }
