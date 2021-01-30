@@ -148,9 +148,9 @@ padding: 0px;
     color: rgba(181, 7, 23, 1);
     font-family: 'Balsamiq Sans', cursive;
     font-size: 10vw;
-    width: 40vw;
-    
-    
+    width: 40vw;   
 }
-
+#menunavbtn a:hover{
+    color: rgb(191, 191, 191);
+}
 
