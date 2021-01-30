@@ -159,5 +159,16 @@ padding: 0px;
 .signupnl{
     background-color: rgba(29, 29, 29, 0.979);
     color: rgba(191, 191, 191, 1);
+    font-family:'Balsamiq Sans', cursive; 
 }
-
+#nlbtn{
+    background-color: rgba(181, 7, 23, 1);
+    margin-top: 15px;
+    color: rgba(191, 191, 191, 1);
+    margin-bottom: 20px;
+}
+#nlbtn:hover{
+    background-color: rgba(191, 191, 191, 1);
+    color: rgba(181, 7, 23, 1);
+    font-size: 1.5em;
+}
