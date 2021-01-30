@@ -115,15 +115,40 @@ padding: 0px;
 .menimgleft{
     background: url("/assets/images/corina-rainer-sScNrKruEPs-unsplash.jpg") no-repeat center center;
     background-size:cover;
-    height: 300px;
+    height: 400px;
+    position: relative;
     
    
 }
 .menimgright{
     background: url("/assets/images/marc-babin-5LmQFGhZb_o-unsplash.jpg") no-repeat center center;
     background-size:cover;
-    height: 300px;
-    
-    
-
+    height: 400px;
+    position: relative;
 }
+
+.menudiv{
+    position: relative;
+}
+
+#menunavbtn{
+    width: 25vw;
+    height: 25vw;
+    border-radius: 50%;
+    background-color: rgba(233, 224, 224, 0.445);
+    position: absolute;
+    top: 50px;
+    left: 37.5vw;
+     justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex;
+}
+#menunavbtn a{
+    color: rgba(29, 29, 29, 0.979);
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 50px;
+    
+}
+
+
