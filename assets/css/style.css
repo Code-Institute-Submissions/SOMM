@@ -183,3 +183,8 @@ padding: 0px;
     padding-top: 20px;
     
 }
+/* -------google map div------ */
+#gmap{
+    background-color: rgba(29, 29, 29, 0.979);
+}
+
