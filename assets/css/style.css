@@ -110,3 +110,20 @@ padding: 0px;
    @media screen and (min-width: 600px) {
     .storysomm h2{font-size: 5vw}
      } 
+/* ---------home page menu section--------------------------------------------- */
+
+.menimgleft{
+    background: url("/assets/images/corina-rainer-sScNrKruEPs-unsplash.jpg") no-repeat center center;
+    background-size:cover;
+    height: 300px;
+    
+   
+}
+.menimgright{
+    background: url("/assets/images/marc-babin-5LmQFGhZb_o-unsplash.jpg") no-repeat center center;
+    background-size:cover;
+    height: 300px;
+    
+    
+
+}
