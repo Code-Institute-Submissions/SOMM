@@ -240,5 +240,15 @@ padding: 0px;
     background-size: cover;
     font-family: 'Roboto', sans-serif;
     color: rgb(191, 191, 191);
-
 }
+.whitewine ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0.39);
+}
+  @media screen and (min-width: 1000px){
+      .whitewine{
+          padding-top: 65px;
+      }
+  }
