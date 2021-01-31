@@ -216,7 +216,7 @@ padding: 0px;
     color: rgba(181, 7, 23, 1);
     font-family: 'Balsamiq Sans', cursive;
 }
-
+/* red wine section */
 .redwine{
     background: url("/assets/images/menu1.jpg") no-repeat center center;
     background-size: cover;
@@ -233,4 +233,12 @@ padding: 0px;
     margin: 0;
     padding: 0;
     background-color: rgba(0, 0, 0, 0.39);
+}
+/* white winesection */
+.whitewine{
+    background: url("/assets/images/menu2.jpg");
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(191, 191, 191);
+
 }
