@@ -188,3 +188,16 @@ padding: 0px;
     background-color: rgba(29, 29, 29, 0.979);
 }
 
+.social{
+    background-color: rgba(29, 29, 29, 0.979);
+    text-align: center;
+}
+.social h4{
+    color: rgb(191, 191, 191);
+}
+.social i{
+    font-size: 300%;
+    color: rgba(181, 7, 23, 1);
+    margin-left: 50px;
+    margin-right: 50px;
+}
