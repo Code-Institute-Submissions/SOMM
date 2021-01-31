@@ -208,3 +208,21 @@ padding: 0px;
     margin-right: 50px;
     margin-bottom: 10px;
 }
+
+/* ------menu page------ */
+.redwine{
+    background: url("/assets/images/menu1.jpg") no-repeat center center;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(191, 191, 191);
+    
+}
+.menuredtext{
+    color: rgba(181, 7, 23, 1);
+    font-family: 'Balsamiq Sans', cursive;
+}
+.redwine ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
