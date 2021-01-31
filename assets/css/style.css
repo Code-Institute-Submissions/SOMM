@@ -22,7 +22,12 @@ padding: 0px;
         font-size: 1.3em;
         margin-right: 10px;
     }
-
+     .navbar-nav > .active > a {
+         color: rgba(181, 7, 23, 1);
+         font-size: 1.3em;
+         font-family:'Balsamiq Sans', cursive; 
+        }
+    
     .nav-item .nav-link:hover{
         color: rgba(181, 7, 23, 1);
         font-size: 1.5em;
