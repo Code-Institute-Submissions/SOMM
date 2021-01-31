@@ -235,6 +235,10 @@ padding: 0px;
     padding: 0;
     background-color: rgba(0, 0, 0, 0.6);
 }
+.redwine strong{
+    font-size: 20px;
+    font-style: italic;
+}
 /* white winesection */
 .whitewine{
     background: url("/assets/images/menu2.jpg") no-repeat center center;
@@ -253,6 +257,10 @@ padding: 0px;
       .whitewine{
           padding-top: 65px;
       }
+  }
+  .whitewine strong{
+      font-style: italic;
+      font-size: 20px;
   }
 
   /* -----bubbles section----- */
@@ -274,4 +282,8 @@ padding: 0px;
       .bubbles{
           padding-top: 65px;
       }
+    }
+    .bubbles strong{
+        font-style: italic;
+        font-size: 20px;
     }
