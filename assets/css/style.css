@@ -222,6 +222,7 @@ padding: 0px;
     background-size: cover;
     font-family: 'Roboto', sans-serif;
     color: rgb(191, 191, 191);
+    font-size: 19px;
     
 }
 .menuredtext{
@@ -240,6 +241,7 @@ padding: 0px;
     background-size: cover;
     font-family: 'Roboto', sans-serif;
     color: rgb(191, 191, 191);
+    font-size: 19px;
 }
 .whitewine ul{
     list-style-type: none;
@@ -255,10 +257,11 @@ padding: 0px;
 
   /* -----bubbles section----- */
   .bubbles{
-       background: url("/assets/images/menu31.jpg") no-repeat center center fixed;
+    background: url("/assets/images/menu31.jpg") no-repeat center center fixed;
     background-size: cover;
     font-family: 'Roboto', sans-serif;
     color: rgb(191, 191, 191);
+    font-size: 19px;
   }
 
   .bubbles ul{
