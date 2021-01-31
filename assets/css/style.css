@@ -233,7 +233,7 @@ padding: 0px;
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: rgba(0, 0, 0, 0.39);
+    background-color: rgba(0, 0, 0, 0.6);
 }
 /* white winesection */
 .whitewine{
@@ -247,7 +247,7 @@ padding: 0px;
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: rgba(0, 0, 0, 0.39);
+    background-color: rgba(0, 0, 0, 0.6);
 }
   @media screen and (min-width: 1000px){
       .whitewine{
@@ -268,7 +268,7 @@ padding: 0px;
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: rgba(0, 0, 0, 0.39);
+    background-color: rgba(0, 0, 0, 0.6);
   }
   @media screen and (min-width: 1000px){
       .bubbles{
