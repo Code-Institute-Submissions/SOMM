@@ -55,7 +55,7 @@ After interviewing the owner and potiental customers of the site and after doing
 - As a website owner I want our customers to easily book a table through the website
 
 
-# **Design decisions and structure**
+### **Design decisions and structure**
 Following the user stories I decided that to minimize the content and maximise the usability the website would consist of three pages home page , bookings page and menu page. Each page would have the same header and footer content to keep the website consistent and each page would consist of lots of imagery to make the webpage attractive and to show off the bar to give the user a bigger picture as to want the bar is all about the follow are my initial ideas on the project:
 
 **Header** 
@@ -78,7 +78,7 @@ The booking page will be a simple page with a nice image, a form for booking a t
 
 The menu will be layed out over images to section each element of the menu. The content will fill out a desktop screen but will be displayed in list type format on a tablet or mobile the device for easy reading and scrolling through the content
 
-# **Wireframing**
+### **Wireframing**
 
 After answering the user stories and getting a idea of the features needed on the site and the information structure of the site I started the wireframing process with balsamiq this helped to solidify my ideas about how the site would look and also help me make the site more attractive by laying out the imagery in the correct pattern and choosing the colors of the font and backgrounds
 
@@ -88,7 +88,7 @@ After answering the user stories and getting a idea of the features needed on th
 - [Booking page](https://github.com/noelmurphy33/SOMM/blob/41105cbf5d1e2999ab019d2754392354f00d8903/wireframes/bookings-wireframe.png)
 - [Menu page](https://github.com/noelmurphy33/SOMM/blob/41105cbf5d1e2999ab019d2754392354f00d8903/wireframes/menu-wireframe.png)
 
-# Changes to initial design
+### **Changes to initial design**
 
 After a review of the design and wireframes by my mentor the following changes where decided.
 1. The booking page will be changed to a contact page which will remove the contact info from the footer and place it on the page along with a contact form
@@ -97,7 +97,7 @@ After a review of the design and wireframes by my mentor the following changes w
 
 3. The sign up to newletter call to action will be removed from the about section and will now be in the foooter as a small form 
 
-### **colors**
+### **Colors**
 
 The following colors where used throughout the website
 - rgba(29, 29, 29, 0.979) mainly for the backgrounds
@@ -108,10 +108,34 @@ The following colors where used throughout the website
 ### **Typography**
 
 Two fonts from google fonts (https://fonts.google.com/) used throughout the website these are:
-- 'Balsamiq Sans', cursive used for most of the site
-- 'Roboto', sans-serif; used for the menu page 
+- 'Balsamiq Sans', cursive : used for most of the site
+- 'Roboto', sans-serif; : used for the menu page except for titles
 
 ### **Images**
 All of the imagery used on the website is taken from (https://unsplash.com/)
 the images are all from different artists see credit section.
+
+## **FEATURES** 
+
+### **Existing Features**
+
+#### **Header** 
+  The header is the same on every page and contains:
+  - Brand name which links to home page
+  - Navigation bar which shrinks to a hamburger icon on smaller devices
+. The links change color and increase in size on hover and also the active link for the page shows a different color for a good user experiance.
+
+#### Footer
+The footer is the same on every page it includes the following:
+- A sign up to newsletter form which has a input field for email address and subscribe button which submits the form,
+The button color inverts on hover and increases in size.
+
+-A hours section which is a simple text explaining the opening hours
+
+-An embeded google map which when clicked will bringyou to the address
+
+-The very bottom of the footer contains two social media icons from font awesome 
+which on click will bring you to the respective website on a new window.
+
+
 
