@@ -189,5 +189,28 @@ used to resize the images.
 - [W3C Mark up Validater](https://validator.w3.org/) used to test my html files.
 - [W3C css validator](https://jigsaw.w3.org/css-validator/) used to test my style sheet.
 
+## **TESTING**
+The testing of the site was a continuous process throughout the development
+because of my lack of experiance i was keen to test each part i had completed this was 
+done mostly using chrome dev tools on my laptop but also on my personal devices both android and ios 
+mobile devices as well as on different browsers on each device. i also had some friends test the site once i had
+completed most of the coding.
+
+#### validaters
+I used W3C mark up and css validaters to test each page of the website.
+
+intially i used these validaters once i had completeted the index.html page 
+to ensure i wasnt making any big errors the results showed two errors and several warnings
+
+.1 error with the width and height properties of the google maps iframe
+
+.2  an error for using the incorrect < h > tag for the title of the social media
+icons.
+
+These errors where fix by changing the < h > tag and by moving the width and height propertys
+to the style attribute.
+
+
+
 
 
