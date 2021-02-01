@@ -95,8 +95,7 @@ padding: 0px;
 
   .storysomm{
       background: url("/assets/images/story.jpg") no-repeat center center fixed;
-      background-size: cover;
-      height: 100vh; 
+      background-size: cover; 
     font-family: 'Balsamiq Sans', cursive;
       
   }
@@ -105,17 +104,16 @@ padding: 0px;
     }
   .storysomm p{
       color: rgba(191, 191, 191, 1);
-      font-size: 3vw;
-        background-color: rgba(0, 0, 0, 0.39);
+      font-size: 25px;
+      background-color: rgba(0, 0, 0, 0.39);
+      margin-bottom: 0;
+      padding-bottom: 200px;
+     
     }
     /* media queries to make font readable on larger devives but not too big on mobile  */
-     @media screen and (max-width: 560px) { 
-     .storysomm p {font-size: 4.8vw} 
-    }
-
-   @media screen and (min-width: 600px) {
-    .storysomm h2{font-size: 5vw}
-     } 
+    @media screen and (min-width: 600px) { 
+     .storysomm p{ padding: 0 20% 20% 20%; } 
+      }  
 /* ---------home page menu section--------------------------------------------- */
 
 .menimgleft{
