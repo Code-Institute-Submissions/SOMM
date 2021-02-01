@@ -285,3 +285,30 @@ padding: 0px;
         font-style: italic;
         font-size: 20px;
     }
+    /* -----food section----- */
+    .foody{
+    background: url("/assets/images/foodmenu.jpg") no-repeat center center;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(191, 191, 191);
+    font-size: 19px;
+    }
+    .foody ul{
+        list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+    .foody h3{
+         font-style: italic;
+    }
+    .overlay{
+            background-color: rgba(0, 0, 0, 0.6);
+        }
+
+@media screen and (min-width: 992px){
+      .alignrh{
+          text-align: right;
+          padding: 20px;
+      }
+      
+    }
