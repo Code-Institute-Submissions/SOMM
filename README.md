@@ -1,4 +1,4 @@
-# **SOMM WINE BAR Website**
+# **SOMM WINE BAR**
 
 A responsive modern website for a recently open wine bar in ennis, this website was created as my first milestone project in the code institute full stack software development course.
 
@@ -165,9 +165,29 @@ the form is full width on small devices and 50% on larger screens.
 
 ### **FUTURE FEATURES**
 These are ideas to add in the future but couldnt for the moment due to lack of knowledge.
-- Validation messages for the forms as feedback to the user
+- Validation messages for the forms as feedback to the user in paricular the booking form to show availability
 - a section where people can post reviews directly to the site
 
+## **TECHNOLOGIES USED** 
+- [HTML](https://en.wikipedia.org/wiki/HTML) used to structure the content
+- [CSS](https://en.wikipedia.org/wiki/CSS) used to style the content
+
+### **Frameworks, libraries and programs**
+- [Bootstrap ver 4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/) style sheet and javascript bundle used for to navbar, modal, forms and style and position the content using grid system
+- [Google fonts](https://fonts.google.com/) used for the two fonts on the site.
+- [Fontawesome](https://fontawesome.com/) used for icons in the site.
+- [Github](https://github.com/) used as the repository for this project
+- [gitpod](https://gitpod.io/) used as the online IDE to develop this site
+- [git](https://git-scm.com/) used for verion control.
+- [Autoprefixer](https://autoprefixer.github.io/) used to add vender prefixs to CSS
+- [favicon.io favicongenerator](https://favicon.io/favicon-generator/) used to create and code the favicon for the site
+- [Tinypng](https://tinypng.com/) used to compress the filesize for the images.
+- [Mircosoft Photos](https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab)
+used to resize the images.
+- [Balsamiq](https://balsamiq.com/) used to create the wireframes.
+- [Chrome dev tools](https://developers.google.com/web/tools/chrome-devtools) used to test the website throughout the development.
+- [W3C Mark up Validater](https://validator.w3.org/) used to test my html files.
+- [W3C css validator](https://jigsaw.w3.org/css-validator/) used to test my style sheet.
 
 
 
