@@ -317,7 +317,7 @@ padding: 0px;
     background-size: cover;
     font-family: 'Balsamiq Sans', cursive;
     color: rgb(191, 191, 191);
-    font-size: 19px;
+    font-size: 20px;
 }
 .contactpage ul{
     list-style-type: none;
@@ -344,4 +344,9 @@ padding: 0px;
 #contactbtn:hover{
     background-color: rgba(191, 191, 191, 1);
     color: rgba(181, 7, 23, 1);
+}
+@media screen and (min-width: 786px){
+    #contactform{
+        width: 50vw;
+    }
 }
