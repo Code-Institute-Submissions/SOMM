@@ -319,4 +319,9 @@ padding: 0px;
     color: rgb(191, 191, 191);
     font-size: 19px;
 }
+.contactpage ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0px 0px 25px 0px;
+}
 
