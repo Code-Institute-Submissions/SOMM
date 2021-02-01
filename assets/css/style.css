@@ -48,7 +48,7 @@ padding: 0px;
   }
 /*------------------------landing image and text STYLING------------------*/
   .landing{
-      background: url(/assets/images/landingimg.jpg) no-repeat center center;
+      background: url("../images/landingimg.jpg") no-repeat center center;
       background-size: cover;
       height: 90vh;
       position: relative;
@@ -100,7 +100,7 @@ padding: 0px;
 /*------------------------SOMM STORY STYLING------------------*/
 
   .storysomm{
-      background: url("/assets/images/story.jpg") no-repeat center center fixed;
+      background: url("../images/story.jpg") no-repeat center center fixed;
       background-size: cover; 
     font-family: 'Balsamiq Sans', cursive;
       
@@ -123,7 +123,7 @@ padding: 0px;
 /* ---------home page menu section--------------------------------------------- */
 
 .menimgleft{
-    background: url("/assets/images/menuleft.jpg") no-repeat center center;
+    background: url("../images/menuleft.jpg") no-repeat center center;
     background-size:cover;
     height: 400px;
     position: relative;
@@ -131,7 +131,7 @@ padding: 0px;
    
 }
 .menimgright{
-    background: url("/assets/images/menuright.jpg") no-repeat center center;
+    background: url("../images/menuright.jpg") no-repeat center center;
     background-size:cover;
     height: 400px;
     position: relative;
@@ -230,7 +230,7 @@ padding: 0px;
 }
 /* red wine section */
 .redwine{
-    background: url("/assets/images/menu1.jpg") no-repeat center center fixed;
+    background: url("../images/menu1.jpg") no-repeat center center fixed;
     background-size: cover;
     font-family: 'Roboto', sans-serif;
     color: rgb(191, 191, 191);
@@ -253,7 +253,7 @@ padding: 0px;
 }
 /* white winesection */
 .whitewine{
-    background: url("/assets/images/menu2.jpg") no-repeat center center;
+    background: url("../images/menu2.jpg") no-repeat center center;
     background-size: cover;
     font-family: 'Roboto', sans-serif;
     color: rgb(191, 191, 191);
@@ -277,7 +277,7 @@ padding: 0px;
 
   /* -----bubbles section----- */
   .bubbles{
-    background: url("/assets/images/menu31.jpg") no-repeat center center fixed;
+    background: url("../images/menu31.jpg") no-repeat center center fixed;
     background-size: cover;
     font-family: 'Roboto', sans-serif;
     color: rgb(191, 191, 191);
@@ -301,7 +301,7 @@ padding: 0px;
     }
     /* -----food section----- */
     .foody{
-    background: url("/assets/images/foodmenu.jpg") no-repeat center center;
+    background: url("../images/foodmenu.jpg") no-repeat center center;
     background-size: cover;
     font-family: 'Roboto', sans-serif;
     color: rgb(191, 191, 191);
@@ -327,7 +327,7 @@ padding: 0px;
       
     }
 .contactpage{
-    background: url("/assets/images/contact.jpg") no-repeat center center;
+    background: url("../images/contact.jpg") no-repeat center center;
     background-size: cover;
     font-family: 'Balsamiq Sans', cursive;
     color: rgb(191, 191, 191);
