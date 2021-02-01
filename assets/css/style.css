@@ -367,5 +367,6 @@ padding: 0px;
 /* CREDIT to fix probelm with background fixed on ios devices https://www.codegrepper.com/code-examples/delphi/css+target+ios+device+only */
 @supports (-webkit-touch-callout: none) {
    .storysomm{
-      background: url("../images/story.jpg") no-repeat center center
+      background: url("../images/story.jpg") no-repeat center center;
+}
 }
