@@ -149,6 +149,7 @@ padding: 0px;
     position: absolute;
     left: 30vw;
     top: 0;
+    /*  credit taken from a suggustion on stackoverflow https://stackoverflow.com/questions/114543/how-to-horizontally-center-an-element/25946329#25946329 */
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
@@ -159,6 +160,7 @@ padding: 0px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    /* end credit */
 }
 #menunavbtn a{
     color: rgba(181, 7, 23, 1);
