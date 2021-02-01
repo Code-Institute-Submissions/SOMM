@@ -312,3 +312,11 @@ padding: 0px;
       }
       
     }
+.contactpage{
+    background: url("/assets/images/contact.jpg") no-repeat center center;
+    background-size: cover;
+    font-family: 'Balsamiq Sans', cursive;
+    color: rgb(191, 191, 191);
+    font-size: 19px;
+}
+
