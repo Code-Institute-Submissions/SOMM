@@ -130,12 +130,44 @@ The footer is the same on every page it includes the following:
 - A sign up to newsletter form which has a input field for email address and subscribe button which submits the form,
 The button color inverts on hover and increases in size.
 
--A hours section which is a simple text explaining the opening hours
+- An hours section which is a simple text explaining the opening hours
 
--An embeded google map which when clicked will bringyou to the address
+- An embeded google map which when clicked will bringyou to the address
 
--The very bottom of the footer contains two social media icons from font awesome 
+- The very bottom of the footer contains two social media icons from font awesome 
 which on click will bring you to the respective website on a new window.
+
+#### BOOKING MODAL
+The booking modal is active via the navbar link on all pages of the website
+it is also activated via the "book now" CTA button on the landing page.
+The modal consists of a form which can be sent via the submit button or exited from via the cancel button, the x on top or by clicking outside the modal.
+
+#### HOME PAGE 
+when you initially land on the site you are greeted by a full page image of the inside of the bar which has 
+welcome text at the top and the book now CTA button at the bottom center.
+scrolling down the page brings you to the about section of the website followed by nice images of food and wine with a link to the menus page.
+- ABOUT section contains a title "The somm story" followed by a nice paragraph with a fixed background image to create a parralax effect. this section is linked to the nav bar via the about nav link.
+- MENU section contains two inline images of wine and food with a link to the menus page     
+
+#### MENUS
+This page consists of four sections which have different background images for each.
+two of which are fixed to create a parrlax effect.
+The page is responsive and has 3 sections inline on top with full width section on bottom 
+on large screens but are aligned on top of eachother on medium and small screens.
+
+#### CONTACT
+The contact page consists of the following:
+- title centered "contact us"
+- a nice background image covering the page
+- a list of the contact information with fontawesome icons
+- a form titled "send us a message" with a button to submit the form "send" which inverts color when hovered on.
+the form is full width on small devices and 50% on larger screens.
+
+### **FUTURE FEATURES**
+These are ideas to add in the future but couldnt for the moment due to lack of knowledge.
+- Validation messages for the forms as feedback to the user
+- a section where people can post reviews directly to the site
+
 
 
 
