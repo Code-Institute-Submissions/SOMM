@@ -325,3 +325,11 @@ padding: 0px;
     padding: 0px 0px 25px 0px;
 }
 
+.contactpage li{
+    padding: 0px 0px 10px 0px;
+}
+.contactpage i{
+    font-size: 25px;
+    color: rgba(181, 7, 23, 1);
+    margin-right: 10px;
+}
