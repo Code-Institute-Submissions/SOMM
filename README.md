@@ -326,7 +326,7 @@ All of the images used were from [unsplash]((https://unsplash.com/)) from these 
 The menu items and descriptions where examples taken from a restaurant menu [here](https://www.thecopperroom.ie/menu)
 all other content on the site was written me.
 
-## **AKNOWLEDGEMENTS**
+## **ACKNOWLEDGEMENTS**
 
 I would like to thank my mentor Narender Singh for his help during the project.
 
