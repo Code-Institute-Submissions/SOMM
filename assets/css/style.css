@@ -116,7 +116,7 @@ padding: 0px;
       padding-bottom: 200px;
      
     }
-    /* media queries to make font readable on larger devives but not too big on mobile  */
+    /* media query to make extend padding on lager device  */
     @media screen and (min-width: 600px) { 
      .storysomm p{ padding: 0 20% 20% 20%; } 
       }  
@@ -326,6 +326,7 @@ padding: 0px;
       }
       
     }
+    /* contact page */
 .contactpage{
     background: url("../images/contact.jpg") no-repeat center center;
     background-size: cover;
