@@ -202,13 +202,30 @@ I used W3C mark up and css validaters to test each page of the website.
 intially i used these validaters once i had completeted the index.html page 
 to ensure i wasnt making any big errors the results showed two errors and several warnings
 
-.1 error with the width and height properties of the google maps iframe
+**.1** error with the width and height properties of the google maps iframe
 
-.2  an error for using the incorrect < h > tag for the title of the social media
+**.2**  an error for using the incorrect < h > tag for the title of the social media
 icons.
 
 These errors where fix by changing the < h > tag and by moving the width and height propertys
 to the style attribute.
+
+**warnings**
+intially i had several warnings due to my comments not having equal hyphens
+but this was an easy fix.
+
+The final testing of my html files showed no errors or warnings.
+
+**CSS**
+The css validation showed no errors or warnings untill i added the vendor prefixs 
+with autoprefixer. The warnings show unknown vender prefixs
+but from what i understand from searching this topic these is because the validaters
+dont recognize the code.
+
+#### **DEV TOOLS**
+i used chrome dev tools alot while testing this site to make sure the site was responsive
+and rendered correct on every screen size to my knowledge the site should look correct on any screensize.
+i used lighthouse in dev tools and made adjustment to my code to improve the performance, acessibility, seo and best practices.
 
 
 
