@@ -219,15 +219,26 @@ The final testing of my html files showed no errors or warnings.
 **CSS**
 The css validation showed no errors or warnings untill i added the vendor prefixs 
 with autoprefixer. The warnings show unknown vender prefixs
-but from what i understand from searching this topic these is because the validaters
+but from what i understand from searching this topic this is because the validaters
 dont recognize the code.
 
-#### **DEV TOOLS**
+##### **DEV TOOLS**
 i used chrome dev tools alot while testing this site to make sure the site was responsive
 and rendered correct on every screen size to my knowledge the site should look correct on any screensize.
 i used lighthouse in dev tools and made adjustment to my code to improve the performance, acessibility, seo and best practices.
 
+ ##### Browser compatability
+ I tested the website on the following browsers
+ - Mircosoft edge
+ - Opera
+ - Google chrome
+ - Mozilla Firefox 
+ - Safari 
 
+ The only issue i found while checking the browser compatability was on safari 
+ but the same issue with the parralax effect of the background images occurs on any browser
+ on an ios device see [BUGS](#BUGS) section for more detail.
 
-
+ ### BUGS   
+ 
 
