@@ -160,15 +160,15 @@ on large screens but are aligned on top of eachother on medium and small screens
 #### CONTACT
 The contact page consists of the following:
 - title centered "contact us"
-- a nice background image covering the page
-- a list of the contact information with fontawesome icons
-- a form titled "send us a message" with a button to submit the form "send" which inverts color when hovered on.
+- A nice background image covering the page
+- A list of the contact information with fontawesome icons
+- A form titled "send us a message" with a button to submit the form "send" which inverts color when hovered on.
 the form is full width on small devices and 50% on larger screens.
 
 ### **FUTURE FEATURES**
 These are ideas to add in the future but couldnt for the moment due to lack of knowledge.
 - Validation messages for the forms as feedback to the user in paricular the booking form to show availability
-- a section where people can post reviews directly to the site
+- A section where people can post reviews directly to the site
 
 ## **TECHNOLOGIES USED** 
 - [HTML](https://en.wikipedia.org/wiki/HTML) used to structure the content
@@ -201,19 +201,19 @@ completed most of the coding.
 #### validaters
 I used W3C mark up and css validaters to test each page of the website.
 
-intially i used these validaters once i had completeted the index.html page 
+Intially i used these validaters once i had completeted the index.html page 
 to ensure i wasnt making any big errors the results showed two errors and several warnings
 
-**.1** error with the width and height properties of the google maps iframe
+**.1** Error with the width and height properties of the google maps iframe
 
-**.2**  an error for using the incorrect < h > tag for the title of the social media
+**.2**  An error for using the incorrect < h > tag for the title of the social media
 icons.
 
 These errors where fix by changing the < h > tag and by moving the width and height propertys
 to the style attribute.
 
 **warnings**
-intially i had several warnings due to my comments not having equal hyphens
+Intially i had several warnings due to my comments not having equal hyphens
 but this was an easy fix.
 
 The final testing of my html files showed no errors or warnings.
@@ -225,9 +225,9 @@ but from what i understand from searching this topic this is because the validat
 dont recognize the code.
 
 #### **DEV TOOLS**
-i used chrome dev tools alot while testing this site to make sure the site was responsive
+I used chrome dev tools alot while testing this site to make sure the site was responsive
 and rendered correct on every screen size to my knowledge the site should look correct on any screensize.
-i used lighthouse in dev tools and made adjustment to my code to improve the performance, acessibility, seo and best practices.
+I used lighthouse in dev tools and made adjustment to my code to improve the performance, acessibility, seo and best practices.
 
  #### Browser compatability
  I tested the website on the following browsers
@@ -245,7 +245,7 @@ i used lighthouse in dev tools and made adjustment to my code to improve the per
  
  1. Bootstrap navbar
 
- while styling over the navbar i wasnt able to change the color of the hamburger button.
+ While styling over the navbar i wasnt able to change the color of the hamburger button.
  To resolve this i had to use a font awesome icon in its place and apply the css to it.
 
  2. Pallalax effect not working in safari or on ios devices.
@@ -267,9 +267,9 @@ I deployed my site to github pages via the following
 
 1. I Logged into github
 2. I then went to my repositories via the avatar dropdown on the navbar.
-3. i then clicked the repository i wanted to deploy.
-4. i clicked settings and then scrolled down to the github pages section.
-5. i clicked the Branch dropdown and selected master then clicked save.
+3. I then clicked the repository i wanted to deploy.
+4. I clicked settings and then scrolled down to the github pages section.
+5. I clicked the Branch dropdown and selected master then clicked save.
 6. The page refreshed and i returned to the same setting section to get the live link.
 
 **FORKING THE REPOSITORY**
@@ -287,9 +287,9 @@ To create a local clone follow these steps.
 
 .1 locate the repository in github
 
-.2 just above where you see the repository files clcik the "code" dropdown.
+.2 Just above where you see the repository files clcik the "code" dropdown.
 
-.3  click the clipboard or select and copy the link.
+.3 Click the clipboard or select and copy the link.
 
 .4 In your terminal type git clone followed by the link and press enter to crete the clone.
 
