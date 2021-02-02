@@ -293,7 +293,39 @@ To create a local clone follow these steps.
 
 ## **CREDITS**
 
+### **CODE**
 
+ - [BOOTSTRAP](https://getbootstrap.com/docs/4.6/components/navbar/) i used a navbar and modal from the componants section of the bootstrap documentation
+ and then changed it to suit my needs i also use various bootstrap classes for other styling
 
+ - [Stackoverflow](https://stackoverflow.com/) i used a piece of css to fix a problem i had aligning the menu link 
+ on the home page. 
 
+  - [Codegrepper](https://www.codegrepper.com/code-examples/delphi/css+target+ios+device+only)  i used a piece of css found here to
+  fix an issue see [BUGS](<#BUGS>) for details
 
+- [favicon.io favicongenerator](https://favicon.io/favicon-generator/) used to create and code the favicon for the site
+
+### **IMAGES**
+
+All of the images used were from [unsplash]((https://unsplash.com/)) from these artists
+
+- [Patrick Tomasso](https://unsplash.com/@impatrickt)
+- [Jez timms](https://unsplash.com/@jeztimms)
+- [Jonathan Nguyen](https://unsplash.com/@jonwaits)
+- [Jose Tebar](https://unsplash.com/@josetebar)
+- [Marc Babin](https://unsplash.com/@marcbabin)
+- [Corina Rainer](https://unsplash.com/@corinarainer)
+- [Tomas Thompson](https://unsplash.com/@tomthompsonphotography)
+- [Zoran Borojevic](https://unsplash.com/@fresh_studio)
+- [Biljana Martinic](https://unsplash.com/@biljaminai)
+
+### **CONTENT**
+The menu items and descriptions where examples taken from a restaurant menu [here](https://www.thecopperroom.ie/menu)
+all other content on the site was written me.
+
+## **AKNOWLEDGEMENTS**
+
+I would like to thank my mentor Narender Singh for his help during the project.
+
+i would aslo like to thank my family and friends for helping me test the site on their devices.
