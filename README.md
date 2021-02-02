@@ -222,12 +222,12 @@ with autoprefixer. The warnings show unknown vender prefixs
 but from what i understand from searching this topic this is because the validaters
 dont recognize the code.
 
-##### **DEV TOOLS**
+#### **DEV TOOLS**
 i used chrome dev tools alot while testing this site to make sure the site was responsive
 and rendered correct on every screen size to my knowledge the site should look correct on any screensize.
 i used lighthouse in dev tools and made adjustment to my code to improve the performance, acessibility, seo and best practices.
 
- ##### Browser compatability
+ #### Browser compatability
  I tested the website on the following browsers
  - Mircosoft edge
  - Opera
@@ -237,8 +237,63 @@ i used lighthouse in dev tools and made adjustment to my code to improve the per
 
  The only issue i found while checking the browser compatability was on safari 
  but the same issue with the parralax effect of the background images occurs on any browser
- on an ios device see [BUGS](#BUGS) section for more detail.
+ on an ios device see [BUGS](<#bugs>) section for more detail.
 
- ### BUGS   
+ ### **BUGS**   
  
+ 1. Bootstrap navbar
+
+ while styling over the navbar i wasnt able to change the color of the hamburger button.
+ To resolve this i had to use a font awesome icon in its place and apply the css to it.
+
+ 2. Pallalax effect not working in safari or on ios devices.
+
+ To create the Pallalax effect with css i set background attachment to fixed for the story image
+ on the home page and also to two images on the menu page. Because background attachment fixed is not supported
+ by ios devices it caused the story image to look distorted but because of layout the menu imagery isnt noticeable
+
+ To resolve this issue i did some searching online about the topic with varying results
+ most of which involved some sort of javascript needed. In the end i used some ccs i found on [www.codegrepper.com](https://www.codegrepper.com/code-examples/delphi/css+target+ios+device+only)  
+ to remove the backgound fixed for ios only. This made the page look better however i would have prefered to make the page experiance as good as on 
+ my andriod device.
+
+## **DEPLOYMENT**
+
+**GITHUB PAGES** 
+
+I deployed my site to github pages via the following
+
+1. I Logged into github
+2. I then went to my repositories via the avatar dropdown on the navbar.
+3. i then clicked the repository i wanted to deploy.
+4. i clicked settings and then scrolled down to the github pages section.
+5. i clicked the Branch dropdown and selected master then clicked save.
+6. The page refreshed and i returned to the same setting section to get the live link.
+
+**FORKING THE REPOSITORY**
+
+To fork the repository follow these steps:
+
+.1 Login to github and find the repository to fork.
+
+.2 At the right side of the page under the avatar dropdown click the fork button
+you should then have a copy of the repository in your repositories.
+
+**LOCAL CLONE**
+
+To create a local clone follow these steps.
+
+.1 locate the repository in github
+
+.2 just above where you see the repository files clcik the "code" dropdown.
+
+.3  click the clipboard or select and copy the link.
+
+.4 In your terminal type git clone followed by the link and press enter to crete the clone.
+
+## **CREDITS**
+
+
+
+
 
